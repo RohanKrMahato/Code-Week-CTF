@@ -1,0 +1,5 @@
+{success_is_not_permanent_failure_is_not_fatal}
+
+FLAG: CW24{HPWZGPTYQZDPNTTER}
+
+decode the cipher, and get the flag :)
